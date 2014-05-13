@@ -1,0 +1,25 @@
+{
+  "name": "express-cache-headers",
+  "version": "0.1.0",
+  "description": "Express Middleware for setting response cache headers",
+  "keywords": [
+    "cache",
+	"header",
+	"middleware"
+  ],
+  "dependencies": {},
+  "scripts": {
+    "test": "vows test/*-test.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anonymous nitsujlangston/express-cache-headers.git"
+  },
+  "author": "Justin Langston <nitsujlangston@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/anonymous nitsujlangston/express-cache-headers/issues"
+  }
+}
