@@ -8,7 +8,7 @@ An Express middleware for setting response cache headers
 
     var cache = require('express-cache-headers');
 
-    app.use(cache({ttl:10, mustrevalidate:true}));
+    app.use(cache(10));
 
     app.get('/hi', cache({nocache:true}), function(req, res){
         res.send('Hi');
