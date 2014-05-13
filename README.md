@@ -1,6 +1,6 @@
 express-cache-headers
 =====================
-An Express middleware for setting cache control headers on responses.
+An Express middleware for setting response cache headers
 
 ###Usage
     var express = require('express');
