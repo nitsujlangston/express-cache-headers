@@ -1,7 +1,7 @@
 {
   "name": "express-cache-headers",
   "version": "0.1.0",
-  "description": "Express Middleware for setting response cache headers",
+  "description": "Express middleware for setting response cache headers",
   "keywords": [
     "cache",
 	"header",
