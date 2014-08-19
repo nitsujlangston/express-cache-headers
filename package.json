@@ -14,12 +14,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous nitsujlangston/express-cache-headers.git"
+    "url": "git://github.com/nitsujlangston/express-cache-headers.git"
   },
   "author": "Justin Langston <nitsujlangston@gmail.com>",
   "license": "MIT",
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/anonymous nitsujlangston/express-cache-headers/issues"
+    "url": "https://github.com/nitsujlangston/express-cache-headers/issues"
   }
 }
