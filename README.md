@@ -2,7 +2,7 @@ express-cache-headers
 =====================
 An Express middleware for setting response cache headers
 
-###Usage
+### Usage
     var express = require('express');
     var app = express();
 
@@ -18,7 +18,7 @@ An Express middleware for setting response cache headers
         res.send('Hey');
     });
 
-###Options
+### Options
     ttl - seconds - defaults to 0
     nocache - true/false - default to false
     private - true/false - default to false
